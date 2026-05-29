@@ -37,11 +37,11 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+    "contract B2B remote",
+    "Technical D365 remote",
+    "D365 Content Developer remote",
+    "D365 F&O remote",
+    "Microsoft Dyancmis 365 remote",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
