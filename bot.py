@@ -37,12 +37,12 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "B2B",
-    "Technical D365",
-    "D365 Developer",
-    "D365 F&O",
-    "Microsoft Dyancmis 365",
-    "Microsoft Dynamics 365 Consultant",
+    "B2B via linkedin",
+    "Technical D365 via linkedin",
+    "D365 Developer via linkedin",
+    "D365 F&O via linkedin",
+    "Microsoft Dyancmis 365 via linkedin",
+    "Microsoft Dynamics 365 Consultant via linkedin",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
