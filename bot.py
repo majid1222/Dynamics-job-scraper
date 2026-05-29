@@ -43,6 +43,7 @@ SEARCH_QUERIES = [
     "D365 F&O via linkedin",
     "Microsoft Dyancmis 365 via linkedin",
     "Microsoft Dynamics 365 Consultant via linkedin",
+    "Microsoft Dyancmis 365 via linkedin at Oman"
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -55,6 +56,9 @@ BLACKLIST_KEYWORDS = [
     "agency",
     "full stack",
     "fullstack",
+    "B2B Sales",
+    "Network",
+    "Web Developer",
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
