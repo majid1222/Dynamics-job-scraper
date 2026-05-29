@@ -42,6 +42,7 @@ SEARCH_QUERIES = [
     "D365 Developer",
     "D365 F&O",
     "Microsoft Dyancmis 365",
+    "Microsoft Dynamics 365 Consultant",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -50,7 +51,6 @@ BLACKLIST_KEYWORDS = [
     "must reside in us",
     "must be located in the us",
     "must be based in",
-    "senior",
     "director",
     "agency",
     "full stack",
