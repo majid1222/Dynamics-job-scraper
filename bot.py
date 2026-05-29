@@ -37,11 +37,11 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "contract B2B remote",
-    "Technical D365 remote",
-    "D365 Content Developer remote",
-    "D365 F&O remote",
-    "Microsoft Dyancmis 365 remote",
+    "contract B2B remote via linkedin",
+    "Technical D365 remote via linkedin",
+    "D365 Content Developer remote via linkedin",
+    "D365 F&O remote via linkedin",
+    "Microsoft Dyancmis 365 remote via linkedin",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
